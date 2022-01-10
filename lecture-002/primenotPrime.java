@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fnc_PrimenotPrime {
+public class primenotPrime {
 
     public static Scanner scn = new Scanner(System.in);
 

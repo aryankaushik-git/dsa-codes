@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fnc_ReverseOfNo {
+public class reverseOfNo {
 
     public static int reverseOfaNumber(int num){
         int ans = 0;

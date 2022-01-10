@@ -1,7 +1,7 @@
 // Sum of Two Numbers using Functions
 import java.util.Scanner;
 
-public class fnc_sumOftwoNos {
+public class sumOftwoNos {
 
 
     public static Scanner scn = new Scanner(System.in);
