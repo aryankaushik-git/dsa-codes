@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fnc_countDigits {
+public class countDigits {
     public static int countDigit(int num){
         int count=0;
         while(num != 0)
