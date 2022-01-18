@@ -6,9 +6,9 @@ public class reverseOfNo {
         int ans = 0;
         while(num !=0)
         {
-            int digit = num%10;
-            num /= 10;
-            ans = ans * 10 + digit;
+            int digit = num%10;  //digits = quotient
+            num /= 10;   // removing last no.
+            ans = ans * 10 + digit; // reversing the number
         }
         return ans;
     }

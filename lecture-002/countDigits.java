@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class countDigits {
-    public static int countDigit(int num){
+    public static int countDigit(int num){ //when we pass some input then it returns some output
         int count=0;
-        while(num != 0)
+        while(num != 0) //Till the no. does not becomes 0    
         {
             num/=10;
             count++;
