@@ -17,9 +17,32 @@ public class inverOfNo {
 
     }
 
+    public static int countDigit(int num){ //when we pass some input then it returns some output
+         int count=0;
+        while(num != 0) //Till the no. does not becomes 0    
+        {
+            num/=10;
+            count++;
+        }
+        return count;
+    }
+
+public static int invers(int num){
+int totaldigit = countDigit(num);
+int lastindex = totaldigit, result= 0;
+while(num!=0){
+    int lastdigit = num%10;
+    num /= 10;
+    result += lastindex * (int)Math.pow(10, totaldigit -lastdigit);
+    lastindex--; 
+}
+return result;
+}
+
+
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
-        reverseNo(n);
+        System.out.println(invers(n)); 
     }
 }
