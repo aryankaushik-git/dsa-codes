@@ -14,7 +14,7 @@ public class primeFactorisation {
             }
         }
         if (n != 1) {
-            System.out.println(n);
+            System.out.println(n); // last remaining prime no.
         }
     }
 }
