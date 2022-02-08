@@ -30,7 +30,6 @@ public class rotating_NO{
     int num2 = (num % (int)Math.pow(10, r) );
 
     int rev = (num2 * (int)Math.pow(10,len-r) + num1 );
-
     return rev;
 
     }
