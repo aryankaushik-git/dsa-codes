@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-
+//Pattern 2
 public class pattern_2 {
     public static void pattern(int n){
         int nsp = 0;
