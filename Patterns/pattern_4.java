@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Pattern 4
 public class pattern_4 {
     public static void pattern(int n){
         int nsp = 0;
