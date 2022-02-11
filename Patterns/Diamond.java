@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//Diamond Pattern
+
 public class Diamond {
     
     public static void pattern(int n){
