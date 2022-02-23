@@ -17,8 +17,9 @@ public class pattern_4 {
         
             System.out.println();
         }
-    
-        }
+
+       
+ }
     
       public static void main (String[] args){
           Scanner scn = new Scanner(System.in);
