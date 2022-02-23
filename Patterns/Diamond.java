@@ -27,7 +27,6 @@ public class Diamond {
             System.out.println();
         }
     
-    
         }
     
       public static void main (String[] args){
