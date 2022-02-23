@@ -19,8 +19,6 @@ public class pattern_1 {
             System.out.println();
         }
     
-       
-    
         }
     
       public static void main (String[] args){
