@@ -22,6 +22,7 @@ public class lcm_gcd {
             n2 =re;
         }
 
+
         int lc = (on1 * on2) / n2 ;
 
 
