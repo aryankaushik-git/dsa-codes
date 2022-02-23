@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Lcm & GCD
 public class lcm_gcd {
     
 
