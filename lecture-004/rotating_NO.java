@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Roating a number
+
 public class rotating_NO{
 
     public static void main(String[] args){
