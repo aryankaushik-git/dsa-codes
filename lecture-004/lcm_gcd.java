@@ -25,12 +25,9 @@ public class lcm_gcd {
 
         int lc = (on1 * on2) / n2 ;
 
-
         System.out.println("GCD is " + n2);
         System.out.println("lcm is " + lc);
     }
-
-
-        
+  
     }
 
