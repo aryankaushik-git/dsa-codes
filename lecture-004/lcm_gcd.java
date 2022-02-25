@@ -9,7 +9,6 @@ public class lcm_gcd {
         scn.close();
         gcd_lcm(num1, num2);
         
-        
     }
 
         public static void gcd_lcm(int n1, int n2){
