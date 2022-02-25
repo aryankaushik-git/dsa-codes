@@ -8,6 +8,7 @@ public class Gradingsystem {
 
         System.out.println("Enter the marks: ");
         
+        
         int marks = scn.nextInt();
 
         if (marks > 90) {
