@@ -2,7 +2,6 @@ import java.util.Scanner;
 //Lcm & GCD
 public class lcm_gcd {
     
-
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int num1 = scn.nextInt();
