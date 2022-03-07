@@ -5,8 +5,7 @@ public class Loops {
         for (int num = 1; num <= 10; num++) {
         System.out.println(num);
         }
-        
-
+       
         //to print number from 10 to 1 in decreasing order
         for (int num = 10; num >= 1; num--) {
         System.out.println(num);
@@ -17,7 +16,6 @@ public class Loops {
         for (int num = 1; num <= 10; num++) {
         System.out.println(tableNumber + " X " + num + " = " + tableNumber * num);
         }
-
        
     }
 }
