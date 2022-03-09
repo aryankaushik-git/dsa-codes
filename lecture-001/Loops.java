@@ -12,6 +12,7 @@ public class Loops {
         System.out.println(num);
         }
         
+        
 
        // to print table
         int tableNumber = 13;
