@@ -11,6 +11,7 @@ public class Loops {
         for (int num = 10; num >= 1; num--) {
         System.out.println(num);
         }
+        
 
        // to print table
         int tableNumber = 13;
