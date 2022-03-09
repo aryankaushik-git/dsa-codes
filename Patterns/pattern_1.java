@@ -27,3 +27,4 @@ public class pattern_1 {
           pattern(n);
       }
 }
+
