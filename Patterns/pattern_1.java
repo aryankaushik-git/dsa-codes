@@ -24,7 +24,6 @@ public class pattern_1 {
           Scanner scn = new Scanner(System.in);
           int n = scn.nextInt();
     
-          
           pattern(n);
       }
 }
