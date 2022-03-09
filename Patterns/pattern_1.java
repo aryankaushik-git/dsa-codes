@@ -1,6 +1,7 @@
 
 import java.util.Scanner;
 //Pattern 1
+
 public class pattern_1 {
     public static void pattern(int n){
         int nsp = n-1;
