@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class Main {
     public static void main(String[] args) {
 
@@ -9,7 +10,7 @@ public class Main {
 
         System.out.println(a+b);
         System.out.println("\\n"); // we can print "\n"  using \\n
-
-        
+      
     }
 }
+

@@ -5,7 +5,7 @@ public class Gradingsystem {
         Scanner scn = new Scanner(System.in);
 
         System.out.println("Enter the marks: ");
-        
+       
         int marks = scn.nextInt();
 
         if (marks > 90) {
@@ -23,3 +23,5 @@ public class Gradingsystem {
     }
     
 }
+
+

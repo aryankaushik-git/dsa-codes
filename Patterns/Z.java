@@ -5,9 +5,6 @@ public class Z {
     System.out.println("  *");
     System.out.println(" *");
     System.out.println("*****");
-
     }
-    
-
     
 }

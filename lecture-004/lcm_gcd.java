@@ -1,8 +1,7 @@
 import java.util.Scanner;
-
+//Lcm & GCD
 public class lcm_gcd {
     
-
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int num1 = scn.nextInt();
@@ -22,14 +21,12 @@ public class lcm_gcd {
             n2 =re;
         }
 
-        int lc = (on1 * on2) / n2 ;
 
+        int lc = (on1 * on2) / n2 ;
 
         System.out.println("GCD is " + n2);
         System.out.println("lcm is " + lc);
     }
-
-
-        
+  
     }
 

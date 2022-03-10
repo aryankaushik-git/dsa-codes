@@ -13,6 +13,7 @@ public class primeFactorisation {
                 System.out.print(div + " ");
             }
         }
+        
         if (n != 1) {
             System.out.println(n); // last remaining prime no.
         }
